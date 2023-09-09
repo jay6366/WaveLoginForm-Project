@@ -9,3 +9,5 @@ HTML&amp;CSS&amp;Javascript mini Practice Project
   <img src="https://github.com/jay6366/WaveLoginForm-Project/issues/1">
 </p>
 
+![시연](https://github.com/jay6366/WaveLoginForm-Project/assets/89118231/c6546811-7b6b-4439-9524-84663454aac8)
+
